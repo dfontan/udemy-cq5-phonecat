@@ -1,4 +1,7 @@
-<%@include file="/libs/foundation/global.jsp" %>
+<%@include file="/libs/foundation/global.jsp"%>
+<%
+	
+%>
 <!DOCTYPE html>
 <html>
 	<head>
